@@ -10,7 +10,6 @@ default-theme = "mocha"
 preferred-dark-theme = "mocha"
 additional-css = [
   "./theme/catppuccin.css",
-  "./theme/catppuccin-admonish.css",
   "./theme/mdbook-admonish.css",
 ]
 no-section-label = true
