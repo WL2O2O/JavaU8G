@@ -34,6 +34,7 @@ System.out.println(i);
 1. 说说`String`，是基本数据类型吗？
 2. String、StringBuffer、StringBuilder有什么区别？
 3. 了解`intern`方法吗？
+4. String 是如何保持不可变的？（源码 Final 类）
 
 ## Integer
 
