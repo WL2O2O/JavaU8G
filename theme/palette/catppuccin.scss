@@ -1,0 +1,66 @@
+@use "@catppuccin/palette/scss/catppuccin" as catppuccin;
+@use "@catppuccin/highlightjs/sass/_theme" as hljs;
+
+@each $flavour, $colour in catppuccin.$palette {
+  .#{$flavour} {
+    @include hljs.highlights($flavour, "hex");
+    code {
+      color: map-get($colour, "text");
+      background: map-get($colour, "mantle");
+    }
+    blockquote {
+      blockquote {
+        border-top: 0.1em solid map-get($colour, "surface2");
+        border-bottom: 0.1em solid map-get($colour, "surface2");
+      }
+    }
+    hr {
+      color: map-get($colour, "surface2");
+    }
+    del {
+      color: map-get($colour, "overlay2");
+    }
+    .ace_gutter {
+      color: map-get($colour, "overlay1");
+      background: map-get($colour, "mantle");
+    }
+    .ace_gutter-active-line.ace_gutter-cell {
+      color: map-get($colour, "pink");
+      background: map-get($colour, "mantle");
+    }
+  }
+}
+
+@each $flavour, $color in catppuccin.$palette {
+  .#{$flavour} {
+    --bg: #{map-get($color, "base")};
+    --fg: #{map-get($color, "text")};
+    --sidebar-bg: #{map-get($color, "mantle")};
+    --sidebar-fg: #{map-get($color, "text")};
+    --sidebar-non-existant: #{map-get($color, "overlay0")};
+    --sidebar-active: #{map-get($color, "blue")};
+    --sidebar-spacer: #{map-get($color, "overlay0")};
+    --scrollbar: #{map-get($color, "overlay0")};
+    --icons: #{map-get($color, "overlay0")};
+    --icons-hover: #{map-get($color, "overlay1")};
+    --links: #{map-get($color, "blue")};
+    --inline-code-color: #{map-get($color, "peach")};
+    --theme-popup-bg: #{map-get($color, "mantle")};
+    --theme-popup-border: #{map-get($color, "overlay0")};
+    --theme-hover: #{map-get($color, "overlay0")};
+    --quote-bg: #{map-get($color, "mantle")};
+    --quote-border: #{map-get($color, "crust")};
+    --table-border-color: #{map-get($color, "crust")};
+    --table-header-bg: #{map-get($color, "mantle")};
+    --table-alternate-bg: #{map-get($color, "mantle")};
+    --searchbar-border-color: #{map-get($color, "crust")};
+    --searchbar-bg: #{map-get($color, "mantle")};
+    --searchbar-fg: #{map-get($color, "text")};
+    --searchbar-shadow-color: #{map-get($color, "crust")};
+    --searchresults-header-fg: #{map-get($color, "text")};
+    --searchresults-border-color: #{map-get($color, "crust")};
+    --searchresults-li-bg: #{map-get($color, "base")};
+    --search-mark-bg: #{map-get($color, "peach")};
+    --warning-border: #{map-get($color, "peach")};
+  }
+}
