@@ -4,3 +4,16 @@ language = "en"
 multilingual = false
 src = "src"
 title = "JavaU8G"
+
+[output.html]
+default-theme = "mocha"
+preferred-dark-theme = "mocha"
+additional-css = [
+  "./theme/catppuccin.css",
+  "./theme/catppuccin-admonish.css",
+  "./theme/mdbook-admonish.css",
+]
+no-section-label = true
+git-repository-url = "https://github.com/WL2O2O/JavaU8G"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/WL2O2O/JavaU8G/edit/master/book/{path}"
