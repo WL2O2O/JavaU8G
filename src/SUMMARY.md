@@ -2,10 +2,10 @@
 
 # 八股篇
 
-- [Java SE](./八股篇/JavaSE.md)
-- [MySQL](./八股篇/MySQL.md)
+- [Java SE](./bagu/JavaSE.md)
+- [MySQL](./bagu/MySQL.md)
 
 # 面经篇
 
-- [鑫丽锋科技](./面经篇/xlf.md)
-- [郑州乐精灵](./面经篇/ljl.md)
+- [鑫丽锋科技](./mianjing/xlf.md)
+- [郑州乐精灵](./mianjing/ljl.md)
