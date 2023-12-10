@@ -1,11 +1,12 @@
-用命令行给本仓库提交代码步骤：
+## ⭐仓库提交代码步骤：
+
 0. 选择本地电脑上一个文件夹，克隆仓库内容到文件夹中
 
-    ```bash
-    # 本处使用 ssh 协议，如未配置，需要先配置本地密钥到GitHub
-    # 参考链接：https://blog.csdn.net/W_317/article/details/106518894
-    $ git clone git@github.com:WL2O2O/JavaU8G.git
-    ```
+     ```bash
+     # 本处使用 ssh 协议，如未配置，需要先配置本地密钥到GitHub
+     # 参考链接：https://blog.csdn.net/W_317/article/details/106518894
+     $ git clone git@github.com:WL2O2O/JavaU8G.git
+     ```
 
 1. 更改已有的文件内容或者新增文件
 
@@ -33,10 +34,23 @@
 
 
 
+## ⭐便捷脚本：
+
+本仓库根目录中提供了一键 pull 和一键 upload 的脚本，因为多人协作为了便捷未设多分支结构进行管理，所以为了以防忘记拉取远仓最新代码，可以使用脚本文件进行点击式操作。
+
+使用前提：需要简单更改两个脚本文件中的路径即可
+
+![修改提示](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312110057907.png)
+
+使用步骤：
+
+1. 双击`autoPull.bat`
+2. 修改或者新增文件
+3. 双击`autoUpload.bat`
 
 
-> ⭐⭐⭐注意事项：
-> 
+
+ ## ⭐注意事项：
 
 Q：为什么我提交代码出现了 reject 被拒绝？
 
