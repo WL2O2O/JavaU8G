@@ -15,8 +15,8 @@ command = "mdbook-admonish"
 assets_version = "3.0.0" # do not edit: managed by `mdbook-admonish install`
 
 [output.html]
-default-theme = "mocha"
-preferred-dark-theme = "mocha"
+default-theme = "light"
+preferred-dark-theme = "light"
 additional-css = [
   "./theme/catppuccin.css",
   "./theme/mdbook-admonish.css",
@@ -25,3 +25,7 @@ no-section-label = true
 git-repository-url = "https://github.com/WL2O2O/JavaU8G"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/WL2O2O/JavaU8G/edit/master/{path}"
+
+[output.html.fold]
+enable = true
+level = 0

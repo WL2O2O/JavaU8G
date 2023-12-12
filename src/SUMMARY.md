@@ -1,13 +1,20 @@
-# Summary
+# Summary 
+
+<!-- - [简介](./README.md) -->
+
 
 # 八股篇
 
+---
+
 - [Java SE](./bagu/JavaSE.md)
 - [MySQL](./bagu/MySQL.md)
-## 集合
-- [ArrayList与LinkedList的区别](./bagu/collection/ArrayList与LinkedList区别.md)
+- [Collections](./bagu/collections/README.md)
+  - [ArrayList与LinkedList的区别](./bagu/collections/ArrayList与LinkedList区别.md)
 
 # 面经篇
+
+---
 
 - [鑫丽锋科技](./mianjing/xlf.md)
 - [郑州乐精灵](./mianjing/ljl.md)
