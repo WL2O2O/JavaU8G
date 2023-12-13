@@ -10,11 +10,7 @@ cname = "csguider.icu"
 default-theme = "light"
 preferred-dark-theme = "light"
 additional-css = [
-  "./theme/drake/font.css",
-  "./theme/drake-black.css",
-  "./theme/drake-google.css",
-  "./theme/drake-juejin.css",
-  
+
 ]
 no-section-label = true
 git-repository-url = "https://github.com/WL2O2O/JavaU8G"
