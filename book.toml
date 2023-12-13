@@ -10,7 +10,7 @@ cname = "csguider.icu"
 default-theme = "light"
 preferred-dark-theme = "light"
 additional-css = [
-  "./theme/drake",
+  "./theme/drake/font.css",
   "./theme/drake-black.css",
   "./theme/drake-google.css",
   "./theme/drake-juejin.css",
