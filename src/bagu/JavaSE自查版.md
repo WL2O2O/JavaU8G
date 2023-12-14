@@ -2,28 +2,13 @@
 
 什么是 Java 语言？
 
-WL: 
 
-Java 语言是一门面向对象的编程语言，不仅吸收了 C++ 语言的各种优点，还舍弃了 C++ 中难以理解的多继承以及指针的概念，因此 Java 语言功能强大且简单易用。Java 语言很好的实现了面向对象的思想，因此支持我们以优雅的思维方式进行复杂的编程。
 
 Java 语言的特点？
 
-WL: 
 
-1. 面向对象
-2. 平台无关
-3. 编译与解释并行
-4. 支持多线程
 
 JVM、JDK、JRE？
-
-WL: 
-
-JVM -- Java 虚拟机
-JRK -- Java 开发工具包
-JRE -- Java 运行环境
-
-三者之间的关系是：JDK > JRE > JVM
 
 ## Java基础
 
@@ -43,10 +28,6 @@ System.out.println(i);
 4. 重写过`equals`和`hashcode`吗？为什么要重写？
 5. 解释一下深拷贝和浅拷贝。
 6. Java创建对象的几种方式？
-   1. new
-   2. 反射
-   3. clone
-   4. 序列化
 
 ## String
 
@@ -99,6 +80,7 @@ System.out.println(i);
 在IO流中，这种模式被广泛应用。例如，在java.io包中，InputStream和OutputStream是两个基础的输入输出流类，它们定义了输入输出流的基本行为和接口。然后，有许多其他的类和接口继承自InputStream和OutputStream，并添加了新的功能。这些新类可以看作是装饰器，它们可以增强原有类（被装饰类）的功能。例如，BufferedInputStream和BufferedOutputStream可以在原有类的基础上添加缓冲功能，提高IO性能。
 总的来说，装饰器模式是一种灵活且强大的设计模式，它允许我们在运行时动态地添加或删除功能，而无需修改原始的类。这种设计模式提高了代码的复用性和可扩展性。
 _**手撸装饰器模式：**_
+
 ```java
 public interface Printer {
     void print();
@@ -165,72 +147,11 @@ JSON序列化的方式有很多，一般会选择使用`jackson`包中的`Object
 
 1. 怎么理解反射？
 
-通过new来创建对象就是正射，是在编译时就会确定创建的对象类型；而反射就是动态地获取类信息、构造器进而`newInstance`创建对象的过程。
-
 2. 怎么通过反射来创建一个对象？
-
-无参实例化：`Object obj = Class.forName(类名).getConstructor().newInstance();`
-有参实例化：`Object obj = Class.forName(类名).getConstructor(String.class).newInstance("汪汪");`
-```java
-public class Main {  
-    public static void main(String[] args) {  
-        try {  
-            // 获取Dog类的Class对象  
-            Class<?> dogClass = Class.forName("Dog");  
-  
-            // 获取Dog类的构造器  
-            Constructor<?> dogConstructor = dogClass.getConstructor();  
-  
-            // 通过构造器创建Dog对象  
-            Object dog = dogConstructor.newInstance();  
-  
-            // 如果需要初始化参数，可以使用带有参数的构造函数  
-            Constructor<?> dogConstructorWithParams = dogClass.getConstructor(String.class);  
-            Object dogWithName = dogConstructorWithParams.newInstance("旺财");  
-  
-        } catch (ClassNotFoundException | NoSuchMethodException | IllegalAccessException | InstantiationException | InvocationTargetException e) {  
-            e.printStackTrace();  
-        }  
-    }  
-}  
-class Dog {  
-    private String name;  
-  
-    public Dog() {  
-        name = "小黄学长";  
-    }  
-  
-    public Dog(String name) {  
-        this.name = name;  
-    }  
-  
-    public String getName() {  
-        return name;  
-    }  
-}
-```
 
 ## 源码
 
 1. 说说你对 HashMap 数据结构的理解？
-
-首先，hashmap 的数据结构是基于数组和链表的，如图：
-
-![img](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312070046177.png)
-
-so，既然是基于数组和链表的，那就说明数组和链表的特点也就是 HashMap 的特点：
-
-**数组：寻址快，直接根据索引访问元素，插入和删除慢；**
-
-**链表：寻址慢，需要从头节点开始遍历，插入和删除快。**
-
-
-
-说到 HashMap 就要说到 Java 8 了，Java 8 之前，HashMap 使用一个数组加链表的结构来存储 【K，V】 键值对。
-
-如果发生 hash 冲突，那么
-
-这将导致在处理 hash 冲突的时候性能不高，尤其是链表很长的时候。因此，Java 8 中的 HashMap 引入了红黑树来替代链表，这样当链表变长的时候，会自动转换为红黑树，从而提高了增删改查的性能。
 
 
 
