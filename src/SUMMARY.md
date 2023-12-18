@@ -20,6 +20,7 @@
 
   - [ArrayList 与 LinkedList 的区别](./bagu/collections/ArrayList与LinkedList区别.md)
 - [JVM](./bagu/JVM/README.md)
+  - [JVM 的内存区域是怎么划分的](./bagu/JVM/JVM的内存区域.md)
   - [JVM 的类加载过程是怎么样的](./bagu/JVM/JVM的类加载过程是怎么样的.md)
   - [JVM 是如何创建对象的](./bagu/JVM/JVM是如何创建对象的.md)
   - [JVM 是如何实现的平台无关](./bagu/JVM/JVM是如何实现的平台无关.md)
@@ -34,6 +35,7 @@
   - [介绍一下 AOP](./bagu/Spring/介绍一下AOP.md)
   - [用过哪些注解](./bagu/Spring/用过哪些注解.md)
   - [Spring 和 SpringBoot 的区别](./bagu/Spring/Spring和SpringBoot的区别.md)
+- [Algo](./bagu/Algo/README.md)
 
 # 面经篇
 
