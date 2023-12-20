@@ -47,3 +47,11 @@
 - [北京小羊驼](./mianjing/xyt.md)
 - [岐飞科技](./mianjing/qfkj.md)
 - [郑州向前](./mianjing/xq.md)
+
+
+
+# Resources
+
+---
+
+- [视频教程](./Resources/videos.md)
