@@ -54,4 +54,6 @@
 
 ---
 
-- [视频教程](./Resources/videos.md)
+- [视频资源](./Resources/videos.md)
+
+- [算法资源](./Resources/algo.md)
