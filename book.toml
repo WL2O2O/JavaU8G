@@ -10,8 +10,8 @@ cname = "csguider.icu"
 default-theme = "light"
 preferred-dark-theme = "light"
 additional-css = [
-
 ]
+
 no-section-label = true
 git-repository-url = "https://github.com/WL2O2O/JavaU8G"
 git-repository-icon = "fa-github"
