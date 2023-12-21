@@ -195,17 +195,47 @@
                             <i id="git-edit-button" class="fa fa-edit"></i>
                         </a>
                         {{/if}}
-                        <a target="_self" title="困了就 High 一下😁 点击播放 / 暂停" aria-label="Suggest high 起来!" style="margin-left: 5px">
+                        <a target="_self" title="困了就 High 一下😁 点击播放 / 暂停" aria-label="Suggest high 起来!"
+                            style="margin-left: 5px">
                             <img src="https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312210915405.ico"
                                 alt="music-icon" style="height: 13.5px; weight: 13.5px;">
-                            <i onclick="runHighEffect()" style="padding: 0;">Music</i>
+                            <i onclick="runHighEffect(document.getElementById('handle'))" style="padding: 0;">Music</i>
+                            <select id="handle" onchange="handleSelection(this)">
+                                <option value="hot-songs">热歌榜</option>
+                                <option value="pop-songs">飙升榜</option>
+                                <option value="zh-songs">新歌榜</option>
+                                <option value="tk-songs">抖音榜</option>
+                                <option value="elec-songs">电音榜</option>
+                            </select>
                         </a>
                     </div>
                 </div>
                 <script>
                     // 设置一个状态，用于防止无限次执行
                     var animationExecuted = false;
-                    function runHighEffect() {
+                    var selectedValue = "";
+                    var MUSIC_SORT = "";
+                    const MUSIC_SORT_HOT = "https://api.uomg.com/api/rand.music?sort=热歌榜";
+                    const MUSIC_SORT_ZH = "https://api.uomg.com/api/rand.music?sort=新歌榜";
+                    const MUSIC_SORT_POP = "https://api.uomg.com/api/rand.music?sort=飙升榜";
+                    const MUSIC_SORT_TK = "https://api.uomg.com/api/rand.music?sort=抖音榜";
+                    const MUSIC_SORT_ELEC = "https://api.uomg.com/api/rand.music?sort=电音榜";
+                    function handleSelection(handle) {
+                        selectedValue = handle.value;
+                    }
+                    function runHighEffect(handle) {
+
+                        if (selectedValue === "hot-songs") {
+                            MUSIC_SORT = MUSIC_SORT_HOT;
+                        } else if (selectedValue === "zh-songs") {
+                            MUSIC_SORT = MUSIC_SORT_ZH;
+                        } else if (selectedValue === "tk-songs") {
+                            MUSIC_SORT = MUSIC_SORT_TK;
+                        } else if (selectedValue === "pop-songs") {
+                            MUSIC_SORT = MUSIC_SORT_POP;
+                        } else if (selectedValue === "elec-songs") {
+                            MUSIC_SORT = MUSIC_SORT_ELEC;
+                        }
 
                         if (animationExecuted) {
                             location.reload();
@@ -315,7 +345,7 @@
                             var r = 350;
                             // var i = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";
                             // 替换为音乐API
-                            var i = "https://api.uomg.com/api/rand.music";
+                            var i = MUSIC_SORT;
                             var s = "mw-harlem_shake_me";
                             var o = "im_first";
                             var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
