@@ -195,8 +195,10 @@
                             <i id="git-edit-button" class="fa fa-edit"></i>
                         </a>
                         {{/if}}
-                        <a target="_self" title="困了就 High 一下😁" aria-label="Suggest high 起来!" >
-                            <i onclick="runHighEffect()">High一下!</i>
+                        <a target="_self" title="困了就 High 一下😁 点击播放 / 暂停" aria-label="Suggest high 起来!" style="margin-left: 5px">
+                            <img src="https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312210915405.ico"
+                                alt="music-icon" style="height: 13.5px; weight: 13.5px;">
+                            <i onclick="runHighEffect()" style="padding: 0;">Music</i>
                         </a>
                     </div>
                 </div>
@@ -206,6 +208,7 @@
                     function runHighEffect() {
 
                         if (animationExecuted) {
+                            location.reload();
                             return; // animationExecuted = true 则动画已经执行过，直接return，不再重复执行
                         }
 
@@ -310,7 +313,9 @@
                             var t = 30;
                             var n = 350;
                             var r = 350;
-                            var i = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";
+                            // var i = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";
+                            // 替换为音乐API
+                            var i = "https://api.uomg.com/api/rand.music";
                             var s = "mw-harlem_shake_me";
                             var o = "im_first";
                             var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
