@@ -203,7 +203,7 @@
                             <select id="handle" onchange="handleSelection(this)">
                                 <option value="hot-songs">热歌榜</option>
                                 <option value="pop-songs">飙升榜</option>
-                                <option value="zh-songs">新歌榜</option>
+                                <option value="new-songs">新歌榜</option>
                                 <option value="tk-songs">抖音榜</option>
                                 <option value="elec-songs">电音榜</option>
                             </select>
@@ -213,10 +213,10 @@
                 <script>
                     // 设置一个状态，用于防止无限次执行
                     var animationExecuted = false;
-                    var selectedValue = "";
-                    var MUSIC_SORT = "";
+                    var selectedValue = "hot-songs";
+                    var MUSIC_SORT = "https://api.uomg.com/api/rand.music?sort=热歌榜";
                     const MUSIC_SORT_HOT = "https://api.uomg.com/api/rand.music?sort=热歌榜";
-                    const MUSIC_SORT_ZH = "https://api.uomg.com/api/rand.music?sort=新歌榜";
+                    const MUSIC_SORT_NEW = "https://api.uomg.com/api/rand.music?sort=新歌榜";
                     const MUSIC_SORT_POP = "https://api.uomg.com/api/rand.music?sort=飙升榜";
                     const MUSIC_SORT_TK = "https://api.uomg.com/api/rand.music?sort=抖音榜";
                     const MUSIC_SORT_ELEC = "https://api.uomg.com/api/rand.music?sort=电音榜";
@@ -225,10 +225,8 @@
                     }
                     function runHighEffect(handle) {
 
-                        if (selectedValue === "hot-songs") {
-                            MUSIC_SORT = MUSIC_SORT_HOT;
-                        } else if (selectedValue === "zh-songs") {
-                            MUSIC_SORT = MUSIC_SORT_ZH;
+                        if (selectedValue === "new-songs") {
+                            MUSIC_SORT = MUSIC_SORT_NEW;
                         } else if (selectedValue === "tk-songs") {
                             MUSIC_SORT = MUSIC_SORT_TK;
                         } else if (selectedValue === "pop-songs") {
