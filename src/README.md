@@ -1,9 +1,10 @@
 ## 更新Timeline_2023_12
 
-### ArticleCount = 26
+### ArticleCount = 27
 
 | TITLE                                                        | UPDATE_TIME  | AUTHOR                                    |
 | ------------------------------------------------------------ | ------------ | ----------------------------------------- |
+| [算法笔试](./bagu/Algo/算法笔记.md)                          | 12-23 23：34 | [li-zixin](https://github.com/li-zixin)   |
 | [设计模式有哪些原则](./bagu/设计模式/设计模式有哪些原则.md)  | 12-23 20：31 | [CSGUIDER](https://github.com/WL2O2O)     |
 | [`Java`中有哪些设计模式](./bagu/设计模式/Java中有哪些设计模式.md) | 12-23 20：23 | [CSGUIDER](https://github.com/WL2O2O)     |
 | [`MyISAM`和`InNoDB`存储引擎的区别](./bagu/MySQL/MyISAM和InNoDB存储引擎的区别.md) | 12-23 10：07 | [CSGUIDER](https://github.com/WL2O2O)     |
