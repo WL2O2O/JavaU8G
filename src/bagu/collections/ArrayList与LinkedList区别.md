@@ -1,6 +1,6 @@
-![Java 集合继承关系图](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312121816932.png)
-
 # `ArrayList`与`LinkedList`的区别
+
+![Java 集合继承关系图](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312121816932.png)
 
 首先，他们都是`List`的集合的实现方式之一。具体来说，集合`List`有`ArrayList`、`LinkedList`、`AbstractList`、`Vector`四种实现方式，因为实现方式的不同，所以效率也不同。其中`LinkedList`些许特别，具体看图。（留一个小问题：`LinkedList`可以实现队列与栈吗？）
 
