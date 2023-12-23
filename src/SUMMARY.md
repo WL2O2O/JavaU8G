@@ -35,7 +35,7 @@
   - [用过哪些注解](./bagu/Spring/用过哪些注解.md)
   - [Spring 和 SpringBoot 的区别](./bagu/Spring/Spring和SpringBoot的区别.md)
 
-- [MySQL](./bagu/MySQL/README.
+- [MySQL](./bagu/MySQL/README.md)
   - [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md)
 
 - [Algo](./bagu/Algo/README.md)
