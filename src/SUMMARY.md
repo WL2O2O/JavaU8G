@@ -8,7 +8,7 @@
 ---
 
 - [Java SE 常考自检](./bagu/JavaSE自查版.md)
-- [MySQL](./bagu/MySQL.md)
+- [MySQL 常考自检](./bagu/MySQL自查版.md)
 - [Java SE](./bagu/JavaSE/README.md)
   - [介绍一下 Java 语言](./bagu/JavaSE/介绍一下Java语言.md)
   - [介绍一下 JDK、JRE 和 JVM](./bagu/JavaSE/JDK和JRE和JVM三者的关系.md)
@@ -17,8 +17,7 @@
   - [什么是多态，你是怎么理解的](./bagu/JavaSE/什么是多态，你怎么理解的.md)
   - [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md)
 - [Collections](./bagu/collections/README.md)
-
-  - [ArrayList 与 LinkedList 的区别](./bagu/collections/ArrayList与LinkedList区别.md)
+- [ArrayList 与 LinkedList 的区别](./bagu/collections/ArrayList与LinkedList区别.md)
 - [JVM](./bagu/JVM/README.md)
   - [JVM 的内存区域是怎么划分的](./bagu/JVM/JVM的内存区域.md)
   - [JVM 的类加载过程是怎么样的](./bagu/JVM/JVM的类加载过程是怎么样的.md)
@@ -35,6 +34,10 @@
   - [介绍一下 AOP](./bagu/Spring/介绍一下AOP.md)
   - [用过哪些注解](./bagu/Spring/用过哪些注解.md)
   - [Spring 和 SpringBoot 的区别](./bagu/Spring/Spring和SpringBoot的区别.md)
+
+- [MySQL](./bagu/MySQL/README.
+  - [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md)
+
 - [Algo](./bagu/Algo/README.md)
 
 # 面经篇
