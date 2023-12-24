@@ -2,7 +2,7 @@
 
 D:
 
-cd D:\JavaU8G
+cd D:\IDEAProject\JavaU8G
 
 echo "Pull the latest code from github..."
 
