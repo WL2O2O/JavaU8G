@@ -4,26 +4,6 @@
 
 | TITLE                                                        | UPDATE_TIME  | AUTHOR                                    |
 | ------------------------------------------------------------ | ------------ | ----------------------------------------- |
-<<<<<<< HEAD
-| [设计模式有哪些原则](./bagu/设计模式/设计模式有哪些原则.md)  | 12-23 20：31 | [WL2O2O](https://github.com/WL2O2O)       |
-| [`Java`中有哪些设计模式](./bagu/设计模式/Java中有哪些设计模式.md) | 12-23 20：23 | [WL2O2O](https://github.com/WL2O2O)       |
-| [`MyISAM`和`InNoDB`存储引擎的区别](./bagu/MySQL/MyISAM和InNoDB存储引擎的区别.md) | 12-23 10：07 | [WL2O2O](https://github.com/WL2O2O)       |
-| [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md) | 12-23 09：40 | [WL2O2O](https://github.com/WL2O2O)       |
-| [`JVM`的内存区域是怎么划分的](./bagu/JVM/JVM的内存区域.md)   | 12-23 08：02 | [WL2O2O](https://github.com/WL2O2O)       |
-| [视频资源](./Resources/videos.md)                            | 12-20 21：50 | [WL2O2O](https://github.com/WL2O2O)       |
-| [算法资源](./Resources/algo.md)                              | 12-20 21：38 | [WL2O2O](https://github.com/WL2O2O)       |
-| [什么是设计模式](./bagu/设计模式/什么是设计模式.md)          | 12-20 11：29 | [WL2O2O](https://github.com/WL2O2O)       |
-| [`JVM`的类加载过程是怎么样的](./bagu/JVM/JVM的类加载过程是怎么样的.md) | 12-18 14：06 | [WL2O2O](https://github.com/WL2O2O)       |
-| [我的算法随笔](./bagu/Algo/README.md)                        | 12-18 14：01 | [WL2O2O](https://github.com/WL2O2O)       |
-| [创建`Java`对象有几种方式](./bagu/JavaSE/创建Java对象有几种方式.md) | 12-16 08：58 | [WL2O2O](https://github.com/WL2O2O)       |
-| [什么是多态，你是怎么理解的](./bagu/JavaSE/什么是多态，你怎么理解的.md) | 12-14 10：57 | [WL2O2O](https://github.com/WL2O2O)       |
-| [说说你对`HashMap`数据结构的理解](./bagu/JavaSE/说说你对HashMap数据结构的理解.md) | 12-14 09：38 | [WL2O2O](https://github.com/WL2O2O)       |
-| [介绍一下`Java`语言](./bagu/JavaSE/介绍一下Java语言.md)      | 12-14 08：57 | [WL2O2O](https://github.com/WL2O2O)       |
-| [用过哪些注解](./bagu/Spring/用过哪些注解.md)                | 12-13 16：37 | [WL2O2O](https://github.com/WL2O2O)       |
-| [介绍一下`IOC`](./bagu/Spring/介绍一下IOC.md)                | 12-13 16：35 | [WL2O2O](https://github.com/WL2O2O)       |
-| [`Spring`和`SpringBoot`的区别](./bagu/Spring/Spring和SpringBoot的区别.md) | 12-13 16：00 | [WL2O2O](https://github.com/WL2O2O)       |
-| [`ArrayList`与`LinkedList`的区别](./bagu/collections/ArrayList与LinkedList区别.md) | 12-12 20：16 | [WL2O2O](https://github.com/WL2O2O)       |
-=======
 | [算法笔试](./bagu/Algo/算法笔记.md)                          | 12-23 23：34 | [li-zixin](https://github.com/li-zixin)   |
 | [设计模式有哪些原则](./bagu/设计模式/设计模式有哪些原则.md)  | 12-23 20：31 | [CSGUIDER](https://github.com/WL2O2O)     |
 | [`Java`中有哪些设计模式](./bagu/设计模式/Java中有哪些设计模式.md) | 12-23 20：23 | [CSGUIDER](https://github.com/WL2O2O)     |
@@ -43,7 +23,6 @@
 | [介绍一下`IOC`](./bagu/Spring/介绍一下IOC.md)                | 12-13 16：35 | [CSGUIDER](https://github.com/WL2O2O)     |
 | [`Spring`和`SpringBoot`的区别](./bagu/Spring/Spring和SpringBoot的区别.md) | 12-13 16：00 | [CSGUIDER](https://github.com/WL2O2O)     |
 | [`ArrayList`与`LinkedList`的区别](./bagu/collections/ArrayList与LinkedList区别.md) | 12-12 20：16 | [CSGUIDER](https://github.com/WL2O2O)     |
->>>>>>> 1bdba6c690b2dae0fbff46ad3939f98924ae98e4
 | [郑州向前](./mianjing/xq.md)                                 | 12-10        | [feiChao33](https://github.com/feiChao33) |
 | [岐飞科技](./mianjing/qfkj.md)                               | 12-10        | [Myming621](https://github.com/Myming621) |
 | [北京小羊驼](./mianjing/xyt.md)                              | 12-10        | [Myming621](https://github.com/Myming621) |
