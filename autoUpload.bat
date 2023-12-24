@@ -1,5 +1,9 @@
 @echo off
 
+D:
+
+cd D:\JavaU8G
+
 echo "trucking files"
 
 git add .
