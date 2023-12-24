@@ -38,9 +38,7 @@
 
 本仓库根目录中提供了一键 pull 和一键 upload 的脚本，因为多人协作为了便捷未设多分支结构进行管理，所以为了以防忘记拉取远仓最新代码，可以使用脚本文件进行点击式操作。
 
-使用前提：需要简单更改两个脚本文件中的路径即可
-
-![修改提示](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312110057907.png)
+![git脚本](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202312242058900.png)
 
 使用步骤：
 
