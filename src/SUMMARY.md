@@ -20,8 +20,6 @@
   
   - [什么是多态，你是怎么理解的](./bagu/JavaSE/什么是多态，你怎么理解的.md)
   
-    <!--  - [介绍一下 JDK、JRE 和 JVM](./bagu/JavaSE/JDK和JRE和JVM三者的关系.md)-->
-  
     <!--  - [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md)-->
   
 - [Collections](./bagu/collections/README.md)
@@ -33,6 +31,8 @@
   - [JVM 的内存区域是怎么划分的](./bagu/JVM/JVM的内存区域.md)
   
   - [JVM 的类加载过程是怎么样的](./bagu/JVM/JVM的类加载过程是怎么样的.md)
+  
+  - [介绍一下 JDK、JRE 和 JVM](./bagu/JVM/JDK和JRE和JVM三者的关系.md)
   
     <!--  - [JVM 是如何创建对象的](./bagu/JVM/JVM是如何创建对象的.md)-->
   
