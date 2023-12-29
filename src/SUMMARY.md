@@ -20,7 +20,7 @@
   
   - [什么是多态，你是怎么理解的](./bagu/JavaSE/什么是多态，你怎么理解的.md)
   
-    <!--  - [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md)-->
+  - [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md)
   
 - [Collections](./bagu/collections/README.md)
   

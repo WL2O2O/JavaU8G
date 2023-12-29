@@ -2,8 +2,8 @@
 
 | TODO_LIST                                                    | STATUS |
 | ------------------------------------------------------------ | ------ |
-| [介绍一下 JDK、JRE 和 JVM](./bagu/JavaSE/JDK和JRE和JVM三者的关系.md) |        |
-| [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md) |        |
+| [介绍一下 JDK、JRE 和 JVM](./bagu/JavaSE/JDK和JRE和JVM三者的关系.md) | ✅      |
+| [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md) | ✅       |
 | [JVM 是如何创建对象的](./bagu/JVM/JVM是如何创建对象的.md)    |        |
 | [JVM 是如何实现的平台无关](./bagu/JVM/JVM是如何实现的平台无关.md) |        |
 | [JVM 有哪些垃圾回收算法](./bagu/JVM/JVM有哪些垃圾回收算法.md) |        |
