@@ -5,7 +5,7 @@
 | ID   | TITLE                                                        | UPDATE_TIME  | AUTHOR                                    |
 | ---- | ------------------------------------------------------------ | ------------ | ----------------------------------------- |
 | 31   | [介绍一下`ThreadLocal`](./bagu/JUC/介绍一下ThreadLocal.md)   | 12-30 10：00 | [WL2O2O](https://github.com/WL2O2O)       |
-| 30   | [说说你对`HashMap`数据结构的理解](./bagu/JavaSE/说说你对HashMap数据结构的理解.md) | 12-30 09：31 | [WL2O2O](https://github.com/WL2O2O)       |
+| 30   | [说说你对`HashMap`数据结构的理解](./bagu/Collections/说说你对HashMap数据结构的理解.md) | 12-30 09：31 | [WL2O2O](https://github.com/WL2O2O)       |
 | 29   | [说说`String`、`StringBuilder`和`StringBuffer`](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md) | 12-29 13：17 | [WL2O2O](https://github.com/WL2O2O)       |
 | 28   | [介绍一下`JDK`、`JRE`和`JVM`](./bagu/JVM/JDK和JRE和JVM三者的关系.md) | 12-28 09：15 | [WL2O2O](https://github.com/WL2O2O)       |
 | 27   | [介绍一下`AOP`](./bagu/Spring/介绍一下AOP.md)                | 12-25 10：49 | [WL2O2O](https://github.com/WL2O2O)       |

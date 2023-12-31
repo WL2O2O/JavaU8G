@@ -24,7 +24,7 @@
   
   - [ArrayList 与 LinkedList 的区别](./bagu/collections/ArrayList与LinkedList区别.md)
 
-  - [说说你对 HashMap 数据结构的理解](./bagu/JavaSE/说说你对HashMap数据结构的理解.md)
+  - [说说你对 HashMap 数据结构的理解](./bagu/Collections/说说你对HashMap数据结构的理解.md)
   
 - [JVM](./bagu/JVM/README.md)
   
