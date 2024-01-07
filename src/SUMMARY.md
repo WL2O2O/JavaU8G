@@ -80,6 +80,8 @@
   - [Java中有哪些设计模式](./bagu/设计模式/Java中有哪些设计模式.md)
   - [设计模式有哪些原则](./bagu/设计模式/设计模式有哪些原则.md)
 
+- [RabbitMQ](./bagu/RabbitMQ/README.md)
+  - [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)
 
 # 面经篇
 
