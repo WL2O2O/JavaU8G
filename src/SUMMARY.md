@@ -21,12 +21,21 @@
   - [说说 String、StringBuilder 和 StringBuffer](./bagu/JavaSE/介绍一下String、StringBuilder和StringBuffer.md)
 
   - [`BIO`、`NIO`、`AIO`？](./bagu/JavaSE/BIO、NIO、AIO？.md)
+
+- [MySQL](./bagu/MySQL/README.md)
+  
+  - [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md)
+  - [MyISAM和InNoDB存储引擎的区别](./bagu/MySQL/MyISAM和InNoDB存储引擎的区别.md)
   
 - [Collections](./bagu/collections/README.md)
   
   - [ArrayList 与 LinkedList 的区别](./bagu/collections/ArrayList与LinkedList区别.md)
 
   - [说说你对 HashMap 数据结构的理解](./bagu/Collections/说说你对HashMap数据结构的理解.md)
+
+- [JUC](./bagu/JUC/README.md)
+
+  - [介绍一下ThreadLocal](./bagu/JUC/介绍一下ThreadLocal.md)
   
 - [JVM](./bagu/JVM/README.md)
   
@@ -56,11 +65,6 @@
   - [介绍一下 AOP](./bagu/Spring/介绍一下AOP.md)
   - [用过哪些注解](./bagu/Spring/用过哪些注解.md)
   - [Spring 和 SpringBoot 的区别](./bagu/Spring/Spring和SpringBoot的区别.md)
-  
-- [MySQL](./bagu/MySQL/README.md)
-  
-  - [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md)
-  - [MyISAM和InNoDB存储引擎的区别](./bagu/MySQL/MyISAM和InNoDB存储引擎的区别.md)
   
 - [Algo](./bagu/Algo/README.md)
 
