@@ -66,9 +66,10 @@
   - [用过哪些注解](./bagu/Spring/用过哪些注解.md)
   - [Spring 和 SpringBoot 的区别](./bagu/Spring/Spring和SpringBoot的区别.md)
   
-- [Algo](./bagu/Algo/README.md)
 
-  - [算法笔记](./bagu/Algo/算法笔记.md)
+- [RabbitMQ](./bagu/RabbitMQ/README.md)
+  - [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)
+
 
 - [微服务](./bagu/微服务/README.md)
 
@@ -80,14 +81,21 @@
   - [Java中有哪些设计模式](./bagu/设计模式/Java中有哪些设计模式.md)
   - [设计模式有哪些原则](./bagu/设计模式/设计模式有哪些原则.md)
 
-- [RabbitMQ](./bagu/RabbitMQ/README.md)
-  - [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)
+
+- [Algo](./bagu/Algo/README.md)
+
+  - [算法笔记](./bagu/Algo/算法笔记.md)
+
+- [OS](./bagu/OS/README.md)
+
+  - [Linux用过什么命令](./bagu/OS/Linux用过什么命令.md)
 
 # 面经篇
 
 ---
 
 - [面经干货](./mianjing/about.md)
+- [专科应届-软通动力一面](./mianjing/专科应届-软通动力一面.md)
 - [面经聚合](./mianjing/collect/README.md)
 
   - [鑫丽锋科技](./mianjing/collect/xlf.md)

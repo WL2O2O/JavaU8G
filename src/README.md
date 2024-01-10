@@ -2,7 +2,9 @@
 
 | ID   | TITLE                                         | UPDATE_TIME  | AUTHOR                              |
 | ---- | --------------------------------------------- | ------------ | ----------------------------------- |
-| 4    | [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)  | 01-07 09：02 | 
+| 6    | [Linux用过什么命令](./bagu/OS/Linux用过什么命令.md)  | 01-10 16：15 | [WL2O2O](https://github.com/WL2O2O) |
+| 5    | [专科应届-软通动力一面](./mianjing/专科应届-软通动力一面.md)  | 01-10 16：02 | [WL2O2O](https://github.com/WL2O2O) |
+| 4    | [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)  | 01-07 09：02 | [WL2O2O](https://github.com/WL2O2O) |
 | 3    | [介绍一下ThreadLocal](./bagu/JUC/介绍一下ThreadLocal.md)  | 01-07 08：49 | [WL2O2O](https://github.com/WL2O2O) |
 | 2    | [`BIO`、`NIO`、`AIO`？](./bagu/JavaSE/BIO、NIO、AIO？.md) | 01-03 09：42 | [WL2O2O](https://github.com/WL2O2O) |
 | 1    | [什么是微服务](./bagu/微服务/什么是微服务.md) | 01-01 17：42 | [WL2O2O](https://github.com/WL2O2O) |
