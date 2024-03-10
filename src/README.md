@@ -1,14 +1,14 @@
-> ## Voiceover：
->
-> ***见者有缘，缘来好运。欢迎访问我们的八股小站`JavaU8G`————Java_Useful_8股_Guide🎉🎉🎉
->
-> 友链🔗：
-> 我的开源博客涵盖了**八股文**、**Java基础**、**JVM**、**MySQL**、**Linux**、**框架技术**、**算法**以及其他领域的文章，博客域名长期有效！！！如果本站对您来说有用，请给我一个小小反馈，比如在 github 提交一个小小的pr，亦或者博客评论区，这将是我持续输出的动力，万分感谢。
->
-> 个人博客建站教程长期不定时连载，囊括我基于 Hexo | fluid 主题的搭建版本记录以及搭建踩坑记录，还有基于原 fluid 主题增加的小功能，如果感兴趣，欢迎咨询。
-> [https://wlei224.gitee.io](https://wlei224.gitee.io/) （建议访问这个，速度极快）
-> [https://wl2o2o.github.io](https://wl2o2o.github.io/) （建议收藏至浏览器书签）***
-> ![博客文章](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202311210931702.png)
+## Voiceover：
+
+见者有缘，缘来好运。欢迎访问我们的八股小站`JavaU8G`————Java_Useful_8股_Guide🎉🎉🎉
+
+友链信息🔗：
+[https://wlei224.gitee.io](https://wlei224.gitee.io/) （速度快）
+[https://wl2o2o.github.io](https://wl2o2o.github.io/) （宜收藏）
+这份博客涵盖了**八股文**、**Java基础**、**JVM**、**MySQL**、**Linux**、**框架技术**、**算法**以及其他领域的文章。如果本站对你来说有收获，请给我一个小小的反馈，比如在 github 提交一个小小的 pr，亦或者博客评论区，这将是我持续输出的动力，万分感谢。
+
+个人博客建站教程长期不定时连载，囊括我基于 Hexo | fluid 主题的搭建版本记录以及搭建踩坑记录，还有基于原 fluid 主题增加的小功能，如果感兴趣，欢迎咨询。
+![博客文章](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202311210931702.png)
 
 
 ## 更新Timeline_2024_03
