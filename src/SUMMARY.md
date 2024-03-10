@@ -25,6 +25,7 @@
 - [MySQL](./bagu/MySQL/README.md)
   
   - [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md)
+
   - [MyISAM和InNoDB存储引擎的区别](./bagu/MySQL/MyISAM和InNoDB存储引擎的区别.md)
   
 - [Collections](./bagu/collections/README.md)
@@ -85,6 +86,11 @@
 - [Algo](./bagu/Algo/README.md)
 
   - [算法笔记](./bagu/Algo/算法笔记.md)
+  - [算法小抄](./bagu/Algo/算法小抄.md)
+  - [试图搞定链表](./bagu/Algo/链表.md)
+  - [美团24春招软开（到店业务）](./bagu/Algo/美团24春招笔试.md)
+  - [汉得24春招Java研发第一批](./bagu/Algo/汉得24春招第一批笔试.md)
+  - [e 签宝](./bagu/Algo/e签宝.md)
 
 - [OS](./bagu/OS/README.md)
 
@@ -94,16 +100,15 @@
 
 ---
 
-- [面经干货](./mianjing/about.md)
-- [专科应届-软通动力一面](./mianjing/专科应届-软通动力一面.md)
+- [你了解校招？](./mianjing/about.md)
 - [面经聚合](./mianjing/collect/README.md)
-
   - [鑫丽锋科技](./mianjing/collect/xlf.md)
   - [郑州乐精灵](./mianjing/collect/ljl.md)
   - [牧原科技](./mianjing/collect/muyuan.md)
   - [北京小羊驼](./mianjing/collect/xyt.md)
   - [岐飞科技](./mianjing/collect/qfkj.md)
   - [郑州向前](./mianjing/collect/xq.md)
+  - [专科应届-软通动力一面](./mianjing/collect/专科应届-软通动力一面.md)
 
 # Resources
 
