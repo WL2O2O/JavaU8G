@@ -2,17 +2,17 @@
 
 ## 面经
 
-  - [鑫丽锋科技](./mianjing/collect/xlf.md)
+  - [鑫丽锋科技](./xlf.md)
 
-  - [郑州乐精灵](./mianjing/collect/ljl.md)
+  - [郑州乐精灵](./ljl.md)
   
-  - [牧原科技](./mianjing/collect/muyuan.md)
+  - [牧原科技](./muyuan.md)
   
-  - [北京小羊驼](./mianjing/collect/xyt.md)
+  - [北京小羊驼](./xyt.md)
   
-  - [岐飞科技](./mianjing/collect/qfkj.md)
+  - [岐飞科技](./qfkj.md)
   
-  - [郑州向前](./mianjing/collect/xq.md)
+  - [郑州向前](./xq.md)
   
-  - [专科应届-软通动力一面](./mianjing/collect/专科应届-软通动力一面.md)
+  - [专科应届-软通动力一面](./专科应届-软通动力一面.md)
 

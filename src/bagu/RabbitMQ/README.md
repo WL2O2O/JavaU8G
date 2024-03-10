@@ -2,4 +2,4 @@
 
 ## RabbitMQ
 
-  - [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)
+  - [介绍一下RabbitMQ](./介绍一下RabbitMQ.md)

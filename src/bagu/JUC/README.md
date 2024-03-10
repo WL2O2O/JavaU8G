@@ -2,4 +2,4 @@
 
 ## Java多线程高并发
 
-  - [介绍一下ThreadLocal](./bagu/JUC/介绍一下ThreadLocal.md)
+  - [介绍一下ThreadLocal](./介绍一下ThreadLocal.md)

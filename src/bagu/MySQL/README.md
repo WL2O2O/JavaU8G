@@ -2,6 +2,6 @@
 
 ## MySQL
 
-  - [什么是关系型数据库与非关系型数据库](./bagu/MySQL/什么是关系型数据库与非关系型数据库.md)
+  - [什么是关系型数据库与非关系型数据库](./什么是关系型数据库与非关系型数据库.md)
   
-  - [MyISAM和InNoDB存储引擎的区别](./bagu/MySQL/MyISAM和InNoDB存储引擎的区别.md)
+  - [MyISAM和InNoDB存储引擎的区别](./MyISAM和InNoDB存储引擎的区别.md)

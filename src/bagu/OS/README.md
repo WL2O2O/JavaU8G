@@ -2,5 +2,5 @@
 
 ## OS
 
-  - [Linux用过什么命令](./bagu/OS/Linux用过什么命令.md)
+  - [Linux用过什么命令](./Linux用过什么命令.md)
 
