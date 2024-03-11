@@ -1,6 +1,6 @@
 ## Voiceover：
 
-见者有缘，缘来好运。欢迎访问我们的八股小站`JavaU8G`————Java_Useful_8股_Guide🎉🎉🎉
+见者有缘，缘来好运。欢迎访问我们的八股小站`JavaU8G`————`Java_Useful_8股_Guide`🎉🎉🎉
 
 友链信息🔗：
 [https://wlei224.gitee.io](https://wlei224.gitee.io/) （速度快）
@@ -15,19 +15,19 @@
 ## 更新Timeline_2024_03
 | ID   | TITLE                                         | UPDATE_TIME  | AUTHOR                              |
 | ---- | --------------------------------------------- | ------------ | ----------------------------------- |
-| 3    | [e签宝24春招笔试](./bagu/Algo/e签宝24春招笔试.md)  | 03-09 18：40 | [WL2O2O](https://github.com/WL2O2O) |
-| 2    | [汉得24春招Java研发第一批](./bagu/Algo/汉得24春招第一批笔试.md)  | 03-09 18：40 | [WL2O2O](https://github.com/WL2O2O) |
-| 1    | [美团24春招软开（到店业务）](./bagu/Algo/美团24春招笔试.md)  | 03-09 18：26 | [WL2O2O](https://github.com/WL2O2O) |
+| 3    | [`e签宝`24春招笔试](./bagu/Algo/e签宝24春招笔试.md)  | 03-09 18：40 | [WL2O2O](https://github.com/WL2O2O) |
+| 2    | [`汉得`24春招Java研发第一批](./bagu/Algo/汉得24春招第一批笔试.md)  | 03-09 18：40 | [WL2O2O](https://github.com/WL2O2O) |
+| 1    | [`美团`24春招软开（到店业务）](./bagu/Algo/美团24春招笔试.md)  | 03-09 18：26 | [WL2O2O](https://github.com/WL2O2O) |
 | 0    | [链表](./bagu/Algo/链表.md)  | 03-02 14：36 | [WL2O2O](https://github.com/WL2O2O) |
 
 ## 更新Timeline_2024_01
 
 | ID   | TITLE                                         | UPDATE_TIME  | AUTHOR                              |
 | ---- | --------------------------------------------- | ------------ | ----------------------------------- |
-| 6    | [Linux用过什么命令](./bagu/OS/Linux用过什么命令.md)  | 01-10 16：15 | [WL2O2O](https://github.com/WL2O2O) |
+| 6    | [`Linux`用过什么命令](./bagu/OS/Linux用过什么命令.md)  | 01-10 16：15 | [WL2O2O](https://github.com/WL2O2O) |
 | 5    | [专科应届-软通动力一面](./mianjing/collect/专科应届-软通动力一面.md)  | 01-10 16：02 | [WL2O2O](https://github.com/WL2O2O) |
-| 4    | [介绍一下RabbitMQ](./bagu/RabbitMQ/介绍一下RabbitMQ.md)  | 01-07 09：02 | [WL2O2O](https://github.com/WL2O2O) |
-| 3    | [介绍一下ThreadLocal](./bagu/JUC/介绍一下ThreadLocal.md)  | 01-07 08：49 | [WL2O2O](https://github.com/WL2O2O) |
+| 4    | [介绍一下`RabbitMQ`](./bagu/RabbitMQ/介绍一下RabbitMQ.md)  | 01-07 09：02 | [WL2O2O](https://github.com/WL2O2O) |
+| 3    | [介绍一下`ThreadLocal`](./bagu/JUC/介绍一下ThreadLocal.md)  | 01-07 08：49 | [WL2O2O](https://github.com/WL2O2O) |
 | 2    | [`BIO`、`NIO`、`AIO`？](./bagu/JavaSE/BIO、NIO、AIO？.md) | 01-03 09：42 | [WL2O2O](https://github.com/WL2O2O) |
 | 1    | [什么是微服务](./bagu/微服务/什么是微服务.md) | 01-01 17：42 | [WL2O2O](https://github.com/WL2O2O) |
 
