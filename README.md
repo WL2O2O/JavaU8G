@@ -19,7 +19,7 @@
 - `SpringFrames`：全面解读`Spring`家族各组件及其实战用法，增强你在企业级开发中的竞争力。
 - `JavaInterview`：汇总各类`Java`面试题目的解析与讨论，为你准备面试保驾护航。
 
-![image-20240311152502587](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202403111525153.png)
+![站点地图](https://cs-wlei224.obs.cn-south-1.myhuaweicloud.com/blog-imgs/202403111525153.png)
 
 ## 🔍 网站地址
 
